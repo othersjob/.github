@@ -17,6 +17,7 @@ assignees: ""
 - [ ] `backend`
 - [ ] `mobile`
 - [ ] `demo-repository`
+- [ ] `quality-assurance`
 - [ ] Outro:
 
 ## Tipo
@@ -24,6 +25,7 @@ assignees: ""
 - [ ] Backend/API
 - [ ] Mobile
 - [ ] Integração
+- [ ] QA/CI/CD
 
 ## Passos para reproduzir
 1.
